@@ -124,16 +124,11 @@ print("Count:", most_common_prediction[1])
 The entire workflow is visually represented in a comprehensive flowchart, illustrating the logical flow of the process.
 ![image](https://github.com/Marinto-Richee/Handwritten-Registration-Number-Extraction-Project/assets/65499285/c26b95de-5d0a-4f82-be61-f7490b7ca76d)
 
-
 ## Usage
 
 1. Clone this repository.
 2. Install the required dependencies.
 3. Execute the provided code using appropriate image paths.
-
-## Contributing
-
-Feel free to contribute by opening issues or submitting pull requests. Your contributions are highly valued!
 
 ## License
 
