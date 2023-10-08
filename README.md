@@ -1,4 +1,4 @@
-# Handwritten Registration Number Extraction Project
+# Handwritten Text OCR
 
 ## Overview
 
