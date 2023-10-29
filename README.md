@@ -1,4 +1,4 @@
-# Handwritten Text OCR
+# Enhanced Hand Written Register Number Recognition and Subject Code Detection in Examination Documents
 
 ## Overview
 
