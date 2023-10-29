@@ -26,10 +26,12 @@ Our YOLOv8 model is configured with specific hyperparameters, architecture detai
 
 After training the model, we conducted an evaluation to assess its performance. We used various metrics to measure the accuracy, precision, recall, and F1-score of our object detection model.
 
-![R_curve](https://github.com/Marinto-Richee/Enhanced-Hand-Written-Register-Number-Recognition-and-Subject-Code-Detection-in-Examination-Document/assets/65499285/a1092e18-9e8f-4056-a40f-a8be5ef5e8e9)
-![PR_curve](https://github.com/Marinto-Richee/Enhanced-Hand-Written-Register-Number-Recognition-and-Subject-Code-Detection-in-Examination-Document/assets/65499285/129bd01c-9efb-4aef-ad7d-9d3e8ab3685a)
-![P_curve](https://github.com/Marinto-Richee/Enhanced-Hand-Written-Register-Number-Recognition-and-Subject-Code-Detection-in-Examination-Document/assets/65499285/a1932b70-2ae8-4f4b-9ebb-ba481d033f59)
-![F1_curve](https://github.com/Marinto-Richee/Enhanced-Hand-Written-Register-Number-Recognition-and-Subject-Code-Detection-in-Examination-Document/assets/65499285/7edc6081-b63c-4c5e-b807-109b377aa11e)
+
+<img src="https://github.com/Marinto-Richee/Enhanced-Hand-Written-Register-Number-Recognition-and-Subject-Code-Detection-in-Examination-Document/assets/65499285/a1092e18-9e8f-4056-a40f-a8be5ef5e8e9" width="500" height="320">
+<img src="https://github.com/Marinto-Richee/Enhanced-Hand-Written-Register-Number-Recognition-and-Subject-Code-Detection-in-Examination-Document/assets/65499285/129bd01c-9efb-4aef-ad7d-9d3e8ab3685a" width="500" height="320">
+<img src="https://github.com/Marinto-Richee/Enhanced-Hand-Written-Register-Number-Recognition-and-Subject-Code-Detection-in-Examination-Document/assets/65499285/a1932b70-2ae8-4f4b-9ebb-ba481d033f59" width="500" height="320">
+<img src="https://github.com/Marinto-Richee/Enhanced-Hand-Written-Register-Number-Recognition-and-Subject-Code-Detection-in-Examination-Document/assets/65499285/7edc6081-b63c-4c5e-b807-109b377aa11e" width="500" height="320">
+
 ![val_batch0_pred](https://github.com/Marinto-Richee/Enhanced-Hand-Written-Register-Number-Recognition-and-Subject-Code-Detection-in-Examination-Document/assets/65499285/6217e0cb-9d6e-4df9-b0c2-239ff036f1e6)
 ![results](https://github.com/Marinto-Richee/Enhanced-Hand-Written-Register-Number-Recognition-and-Subject-Code-Detection-in-Examination-Document/assets/65499285/afda5cfa-184a-41da-bedc-82079a574d4a)
 
