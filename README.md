@@ -15,7 +15,9 @@ Automated Exam Answer Sheet PDF Renamer is a project designed to streamline the 
 - Implements extensive data augmentation techniques to enhance model performance.
 
 ## Project Flow
-![diagram](https://github.com/Marinto-Richee/Enhanced-Hand-Written-Register-Number-Recognition-and-Subject-Code-Detection-in-Examination-Document/assets/65499285/5b738133-01a8-455c-a181-f996da39d1ac)
+![image](https://github.com/Marinto-Richee/Enhanced-Hand-Written-Register-Number-Recognition-and-Subject-Code-Detection-in-Examination-Document/assets/65499285/1f0d0790-8bb7-44c2-a699-6531989ea669)
+
+
 
 ## License
 
