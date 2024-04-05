@@ -17,6 +17,10 @@ Automated Exam Answer Sheet PDF Renamer is a project designed to streamline the 
 ## Project Flow
 ![image](https://github.com/Marinto-Richee/Enhanced-Hand-Written-Register-Number-Recognition-and-Subject-Code-Detection-in-Examination-Document/assets/65499285/1f0d0790-8bb7-44c2-a699-6531989ea669)
 
+## Alternate flow
+
+We're are trying implement an alternate model and OCR strategy to convert the detected the Register Numbers and Subject Codes to texts.
+Help us create this dataset using the below link.
 
 
 ## License
